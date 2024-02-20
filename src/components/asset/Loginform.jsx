@@ -33,7 +33,7 @@ export const Loginform = () => {
         <button type="submit">Login</button>
         <div className="register-link">
           <p>
-            Don't have an account <a href="#">register</a>
+            Don't have an account <a href=" https://veeravels.github.io/Form-validation/">register</a>
           </p>
         </div>
       </form>
